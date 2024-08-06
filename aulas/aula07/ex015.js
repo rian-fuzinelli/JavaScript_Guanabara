@@ -3,7 +3,6 @@ console.log('Olá, tudo bem ?');
 console.log('Olá, tudo bem ?');
 console.log('Olá, tudo bem ?');
 console.log('Olá, tudo bem ?');
-console.log('Olá, tudo bem ?');
 */
 
 var cont = 1;
